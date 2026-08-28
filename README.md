@@ -78,8 +78,7 @@ The trained Decision Tree model and feature artifacts are serialized using `jobl
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/cloudexify-ds-final-yourname.git](https://github.com/your-username/cloudexify-ds-final-yourname.git)
-   cd cloudexify-ds-final-yourname
+   git clone https://github.com/MuhammadOmama/CloudExify-Project-4
    ```
 
 2. **Install dependencies**:
