@@ -1,4 +1,4 @@
-# CloudExify Data Science Internship — Project 4: Disease Prediction (Classification)
+# Disease Prediction (Classification)
 
 ## 📌 Project Overview
 This project develops an end-to-end medical classification system to predict patient disease status based on clinical diagnostics. The pipeline handles class imbalance, normalizes feature distributions, trains both Logistic Regression and Decision Tree classifiers, evaluates performance across multiple classification metrics, and provides an interactive Streamlit web application for real-time patient assessment.
